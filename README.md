@@ -11,7 +11,7 @@ The analysis is based on a MySQL dump file named **`new_wheels_dumpfile.sql`**. 
 - **`order_t`**: Records all transaction details, including customer and product IDs, order dates, shipping information, and customer feedback
 
 #### Database Schema (ERD)
-[ER-Diagram.pdf](https://github.com/user-attachments/files/21943241/ER-Diagram.pdf)
+<img width="916" height="756" alt="Image" src="https://github.com/user-attachments/assets/8abda645-58ee-4641-952f-a1952abd1f53" />
 
 ### 3. Tools Used
 - **Database**: MySQL
